@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Strategy illustration">
+  <rect width="640" height="360" fill="#198038" />
+  <polygon points="160,260 320,80 480,260" fill="#ffffff" opacity="0.16" />
+  <circle cx="320" cy="220" r="60" fill="#ffffff" opacity="0.24" />
+  <text x="320" y="310" font-family="Inter, system-ui, sans-serif" font-size="38" fill="#ffffff" text-anchor="middle">RISE</text>
+</svg>

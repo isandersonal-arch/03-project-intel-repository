@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Summit illustration">
+  <rect width="640" height="360" fill="#6f4df2" />
+  <path d="M120 260 L320 80 L520 260 Z" fill="#ffffff" opacity="0.16" />
+  <circle cx="320" cy="170" r="40" fill="#ffffff" opacity="0.24" />
+  <text x="320" y="330" font-family="Inter, system-ui, sans-serif" font-size="38" fill="#ffffff" text-anchor="middle">Summit</text>
+</svg>
